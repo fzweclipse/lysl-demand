@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8e96a5e-c874-413f-aa37-d82961ac2072" name="Default" comment="后台管理更新">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8e96a5e-c874-413f-aa37-d82961ac2072" name="Default" comment="后台管理更新" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,11 +15,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="718" />
-    <option name="width" value="722" />
-    <option name="height" value="900" />
-  </component>
   <component name="ProjectId" id="1XyGGvRf3q8QxuVb4gUfZeCjcTG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +25,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lysl/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lysl/src/main/webapp/WEB-INF/jsp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -119,6 +112,7 @@
       <updated>1581176611332</updated>
       <workItem from="1581176612705" duration="254000" />
       <workItem from="1582010829781" duration="1162000" />
+      <workItem from="1582018455586" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="后台管理更新">
       <created>1582011096165</created>
@@ -145,22 +139,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="后台管理更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="749" y="427" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1582012108250">
+    <state x="749" y="427" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1582018600324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="749" y="427" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582012108250" />
-    <state x="457" y="106" key="CommitChangelistDialog2" timestamp="1582011813596">
+    <state x="749" y="427" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582018600324" />
+    <state x="457" y="106" key="CommitChangelistDialog2" timestamp="1582018710637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="457" y="106" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582011813596" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1582012106762">
+    <state x="457" y="106" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582018710637" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1582018599236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582012106762" />
-    <state x="440" y="95" key="SettingsEditor" timestamp="1582012110126">
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582018599236" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1582018601238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582012110126" />
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582018601238" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1582011817728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
